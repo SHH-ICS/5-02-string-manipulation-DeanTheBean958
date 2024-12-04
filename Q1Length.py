@@ -3,5 +3,5 @@
 
 # Gimme Imput
 # Print Imput Length
-variable = input()
+variable = input("Please enter a word: ")
 print(len(variable))
